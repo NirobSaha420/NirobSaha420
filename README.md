@@ -1,8 +1,9 @@
 # Hi 👋, I'm Nr. Saha
 
-### A Enthusiast Web Designer
+## A Enthusiast Web Designer
+I believe in deliberate craftsmanship over rushed deadlines. I refuse to sacrifice design aesthetics, code quality, or core web vitals for speed. My process is built on a non-negotiable foundation of best practices, ensuring the final product is not only fast and beautiful but also built to last and easy to maintain.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NirobSaha420&label=Profile views&color=0e75b6&style=flat" alt="Nr.Saha" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=NirobSaha420&label=Profile views&color=0e75b6&style=flat" alt="Nr.Saha" /> </p>
 
 - 🌱 I'm currently learning **GSAP & Three.js**
 
