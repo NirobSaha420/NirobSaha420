@@ -15,9 +15,9 @@ I believe in deliberate craftsmanship over rushed deadlines. I refuse to sacrifi
 
 - ⚡ Fun fact **Passionate about guitar.**
 
-- 🔥 Passionate CSS Troubleshooter
+- 🔥 Passionate HTML & CSS **Troubleshooter**
 
-- 🚀 Expert in Website Performance | Accessibility | SEO
+- 🚀 Expert in Website **Performance** | **Accessibility** | **Technical SEO**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
