@@ -15,6 +15,10 @@ I believe in deliberate craftsmanship over rushed deadlines. I refuse to sacrifi
 
 - ⚡ Fun fact **Passionate about guitar.**
 
+- 🔥 Passionate CSS Troubleshooter
+
+- 🚀 Expert in Website Performance | Accessibility | SEO
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/NirobSaha420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="NirobSaha420" height="30" width="40" /></a>
